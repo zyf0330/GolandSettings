@@ -1,0 +1,77 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" timestamp="1528706304818">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="45" column="12" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" timestamp="1528706410316">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="51" column="27" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="52" column="9" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="2" column="18" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="55" column="38" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="29" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="28" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9ncnBjL3JlZmxlY3Rpb24iCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CXMgOj0gZ3JwYy5OZXdTZXJ2ZXIoZ3JwYy4pCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>8</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWNyZWRlbnRpYWxzLk5ld1MK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>8</text>
+      </register>
+      <register name="/" type="4">
+        <text>re</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>re</last-search>
+      <last-offset />
+      <last-pattern>re</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>grpc</entry>
+        <entry>grpc.</entry>
+        <entry>re</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
