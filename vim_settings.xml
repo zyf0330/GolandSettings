@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/usr/local/go/src/strings/strings.go" timestamp="1531798349878">
+        <mark key="'" line="831" column="10" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1531798250641">
+        <mark key="'" line="175" column="15" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="^" line="70" column="4" />
+        <mark key="." line="70" column="4" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" timestamp="1531798995399" />
       <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" timestamp="1528706304818">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="52" column="4" />
@@ -24,6 +35,10 @@
       <jump line="55" column="38" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
       <jump line="29" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
       <jump line="28" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
+      <jump line="68" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
+      <jump line="70" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
+      <jump line="175" column="15" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
+      <jump line="831" column="10" filename="/usr/local/go/src/strings/strings.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -45,13 +60,13 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>re</text>
+        <text>contain</text>
       </register>
     </registers>
     <search>
-      <last-search>re</last-search>
+      <last-search>contain</last-search>
       <last-offset />
-      <last-pattern>re</last-pattern>
+      <last-pattern>contain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -60,10 +75,13 @@
         <entry>grpc</entry>
         <entry>grpc.</entry>
         <entry>re</entry>
+        <entry>contain</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -71,6 +89,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
