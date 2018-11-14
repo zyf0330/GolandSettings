@@ -6,14 +6,18 @@
       <file name="/usr/local/go/src/strings/strings.go" timestamp="1531798349878">
         <mark key="'" line="831" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1531798250641">
-        <mark key="'" line="175" column="15" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="4" />
-        <mark key="^" line="70" column="4" />
-        <mark key="." line="70" column="4" />
+      <file name="/Dummy.txt" timestamp="1542163120896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" timestamp="1531798995399" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1542163105641">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="73" />
+        <mark key="^" line="58" column="73" />
+        <mark key="." line="58" column="73" />
+      </file>
       <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" timestamp="1528706304818">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="52" column="4" />
@@ -39,6 +43,7 @@
       <jump line="70" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
       <jump line="175" column="15" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
       <jump line="831" column="10" filename="/usr/local/go/src/strings/strings.go" />
+      <jump line="39" column="29" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -48,7 +53,7 @@
         <text encoding="base64">CXMgOj0gZ3JwYy5OZXdTZXJ2ZXIoZ3JwYy4pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>去除除 etcdv3 以外的 backend 支持</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CWNyZWRlbnRpYWxzLk5ld1MK</text>
@@ -57,18 +62,18 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>去除除 etcdv3 以外的 backend 支持</text>
       </register>
       <register name="/" type="4">
-        <text>contain</text>
+        <text>getip</text>
       </register>
     </registers>
     <search>
-      <last-search>contain</last-search>
+      <last-search>getip</last-search>
       <last-offset />
-      <last-pattern>contain</last-pattern>
+      <last-pattern>getip</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -76,6 +81,7 @@
         <entry>grpc.</entry>
         <entry>re</entry>
         <entry>contain</entry>
+        <entry>getip</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -95,6 +101,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
