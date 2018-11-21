@@ -6,10 +6,11 @@
       <file name="/usr/local/go/src/strings/strings.go" timestamp="1531798349878">
         <mark key="'" line="831" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542163120896">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1542163147728">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+        <mark key="^" line="0" column="63" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1542163105641">
         <mark key="'" line="39" column="29" />
