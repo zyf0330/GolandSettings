@@ -2,6 +2,7 @@
   <component name="GoDep">
     <exec-paths>
       <list>
+        <option value="$USER_HOME$/project/go/bin/dep" />
         <option value="dep" />
       </list>
     </exec-paths>
