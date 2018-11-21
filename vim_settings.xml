@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542783997672">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542785630223">
+        <mark key="[" line="110" column="31" />
+        <mark key="]" line="110" column="31" />
+        <mark key="." line="110" column="31" />
+        <mark key="^" line="110" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config_test.go" timestamp="1542778007623">
         <mark key="[" line="14" column="46" />
@@ -38,6 +39,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd/conf.d/config.js.toml" timestamp="1542785362809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+      </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" timestamp="1542778176137">
         <mark key="'" line="122" column="10" />
         <mark key="[" line="53" column="26" />
@@ -52,8 +57,8 @@
         <mark key="^" line="16" column="32" />
       </file>
       <file name="/client.go" timestamp="1542784012929" />
-      <file name="/Dummy.txt" timestamp="1542784095728">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1542785467943">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -175,8 +180,8 @@
       <jump line="220" column="12" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cgrmt7vliqDmtYvor5U=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3RlbXBsYXRlXQpzcmMgPSAiY29uZmlnLmpzLnRtcGwiCmRlc3QgPSAiY29uZmRfdGVzdC5qcyIKcHJlZml4ID0gInRlc3QuIgprZXlzID0gWwogICJ2ZXJzaW9uIiwKICAidjIiLApdCg==</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
