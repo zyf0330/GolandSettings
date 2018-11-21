@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542771509123">
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542779954017">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
@@ -32,6 +32,12 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="62" />
       </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" timestamp="1542780065848">
+        <mark key="'" line="111" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" timestamp="1542778176137">
         <mark key="'" line="122" column="10" />
         <mark key="[" line="53" column="26" />
@@ -45,7 +51,8 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542778412013">
+      <file name="/Dummy.txt" timestamp="1542780091848">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -56,18 +63,12 @@
         <mark key="." line="9" column="19" />
       </file>
       <file name="/test.sh" timestamp="1542777636261" />
+      <file name="/util.go" timestamp="1542780033848">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="58" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
-      <jump line="60" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="15" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="37" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
-      <jump line="12" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
-      <jump line="11" column="229" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
-      <jump line="34" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
       <jump line="2" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
       <jump line="18" column="269" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
       <jump line="27" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
@@ -158,10 +159,20 @@
       <jump line="77" column="17" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
       <jump line="132" column="11" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" />
       <jump line="122" column="10" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" />
+      <jump line="34" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="6" column="14" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="39" column="31" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="40" column="18" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="41" column="26" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="81" column="17" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="82" column="22" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="110" column="19" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
+      <jump line="111" column="30" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZsYWcuQm9vbFZhcigmcHByb2YsICJwcHJvZiIsIGZhbHNlLCAiZW5hYmxlIHBwcm9mIGRlYnVnIikK</text>
+        <text encoding="base64">CSJwYXRoL2ZpbGVwYXRoIgo=</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
@@ -170,54 +181,52 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZsYWcuQm9vbFZhcigmcHByb2YsICJwcHJvZiIsIGZhbHNlLCAiZW5hYmxlIHBwcm9mIGRlYnVnIikK</text>
+        <text encoding="base64">CQlzW2ldID0gcHJlZml4ICsgawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJRmlsdGVyOiAgICAgICAiKiIsCg==</text>
+        <text encoding="base64">CSJwYXRoL2ZpbGVwYXRoIgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVlBTUxGaWxlICAgICBbXXN0cmluZwo=</text>
+        <text encoding="base64">CQlzW2ldID0gcGF0aC5Kb2luKHByZWZpeCwgaykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJRmlsdGVyOiAgICAgICAiKiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljYXNlICJldGNkdjMiOgo=</text>
+        <text encoding="base64">CVlBTUxGaWxlICAgICBbXXN0cmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewoK</text>
+        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljYXNlICJldGNkIjoKCQkJdnNtIDo9IG1ha2UoW11zdHJpbmcsIGxlbihzcnZOb2RlcykpCgkJCWZvciBpLCB2IDo9IHJhbmdlIHNydk5vZGVzIHsKCQkJCXZzbVtpXSA9IGNvbmZpZy5TY2hlbWUgKyAiOi8vIiArIHYKCQkJfQoJCQlzcnZOb2RlcyA9IHZzbQoJCX0K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>Merge pull request #710 from okushchenko/arm-support
-
-Release arm64 binaries</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQljYXNlICJldGNkdjMiOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWMgOj0gQ29uZmlnewoJCUNvbmZEaXI6ICAgICB0ZW1wQ29uZkRpciwKCQlDb25maWdEaXI6ICAgZmlsZXBhdGguSm9pbih0ZW1wQ29uZkRpciwgImNvbmYuZCIpLAoJCVN0b3JlQ2xpZW50OiBuaWwsCgkJVGVtcGxhdGVEaXI6IGZpbGVwYXRoLkpvaW4odGVtcENvbmZEaXIsICJ0ZW1wbGF0ZXMiKSwKCX0K</text>
+        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -225,7 +234,6 @@ Release arm64 binaries</text>
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>jz</entry>
         <entry>eventDelay</entry>
         <entry>roomEventDelays</entry>
@@ -245,6 +253,7 @@ Release arm64 binaries</text>
         <entry>yaml</entry>
         <entry>env</entry>
         <entry>store</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
