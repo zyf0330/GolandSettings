@@ -9,10 +9,11 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config_test.go" timestamp="1542771586017">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config_test.go" timestamp="1542778007623">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="49" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="49" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd.go" timestamp="1542769458647">
         <mark key="[" line="23" column="7" />
@@ -20,69 +21,44 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/config.go" timestamp="1542770395983">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="22" column="0" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config_test.go" timestamp="1542775648202" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/config.go" timestamp="1542777696094">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
-      <file name="/resource.go" timestamp="1542770871590">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="48" />
+      <file name="/config.go" timestamp="1542778182046">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="62" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/processor.go" timestamp="1542770705912">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" timestamp="1542778176137">
+        <mark key="'" line="122" column="10" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="27" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542338359883">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/docs/installation.md" timestamp="1542772647991">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542772537580">
+      <file name="/Dummy.txt" timestamp="1542778398442">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/client.go" timestamp="1542769686892">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" timestamp="1542770877862">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config.go" timestamp="1542775727035" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/Gopkg.toml" timestamp="1542772441242">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/1.js" timestamp="1542621652625">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" timestamp="1542769028814">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1542770950072">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
+      <file name="/test.sh" timestamp="1542777636261" />
     </filemarks>
     <jumps>
-      <jump line="0" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
-      <jump line="150" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="161" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
-      <jump line="184" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
-      <jump line="57" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="58" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
       <jump line="60" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
@@ -176,66 +152,73 @@
       <jump line="26" column="19" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/client.go" />
       <jump line="19" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" />
       <jump line="37" column="40" filename="/template_funcs.go" />
-      <jump line="9" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
       <jump line="101" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="69" column="26" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
+      <jump line="85" column="23" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
+      <jump line="9" column="44" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
+      <jump line="77" column="17" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource_test.go" />
+      <jump line="132" column="11" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" />
+      <jump line="122" column="10" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CWZsYWcuQm9vbFZhcigmcHByb2YsICJwcHJvZiIsIGZhbHNlLCAiZW5hYmxlIHBwcm9mIGRlYnVnIikK</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>kelseyhightower</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>yaml</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXV0aWwgImdpdGh1Yi5jb20va2Vsc2V5aGlnaHRvd2VyL2NvbmZkL3V0aWwiCg==</text>
+        <text encoding="base64">CWZsYWcuQm9vbFZhcigmcHByb2YsICJwcHJvZiIsIGZhbHNlLCAiZW5hYmxlIHBwcm9mIGRlYnVnIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQkJRmlsdGVyOiAgICAgICAiKiIsCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyOGY3MjYwOC4uLiBNZXJnZSBwdWxsIHJlcXVlc3QgIzcxMCBmcm9tIG9rdXNoY2hlbmtvL2FybS1zdXBwb3J0Cg==</text>
+        <text encoding="base64">CVlBTUxGaWxlICAgICBbXXN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogIG5hbWUgPSAiZ2l0aHViLmNvbS9zYW11ZWwvZ28tem9va2VlcGVyIgogIHJldmlzaW9uID0gImM0ZmFiMWFjMWJlYzU4MjgxYWQwNjY3ZGMzZjA5MDdhOTQ3NmFjNDciCgpbW2NvbnN0cmFpbnRdXQogIG5hbWUgPSAiZ29wa2cuaW4veWFtbC52MiIKICBicmFuY2ggPSAidjIiCj4+Pj4+Pj4gMjhmNzI2MDguLi4gTWVyZ2UgcHVsbCByZXF1ZXN0ICM3MTAgZnJvbSBva3VzaGNoZW5rby9hcm0tc3VwcG9ydAo=</text>
+        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewo=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyOGY3MjYwOC4uLiBNZXJnZSBwdWxsIHJlcXVlc3QgIzcxMCBmcm9tIG9rdXNoY2hlbmtvL2FybS1zdXBwb3J0Cg==</text>
+        <text encoding="base64">CQljYXNlICJldGNkdjMiOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQlzd2l0Y2ggY29uZmlnLkJhY2tlbmQgewoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CQljYXNlICJldGNkIjoKCQkJdnNtIDo9IG1ha2UoW11zdHJpbmcsIGxlbihzcnZOb2RlcykpCgkJCWZvciBpLCB2IDo9IHJhbmdlIHNydk5vZGVzIHsKCQkJCXZzbVtpXSA9IGNvbmZpZy5TY2hlbWUgKyAiOi8vIiArIHYKCQkJfQoJCQlzcnZOb2RlcyA9IHZzbQoJCX0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJRmlsdGVyOiAgICAgICAiKiIsCg==</text>
+      <register name="8" type="4">
+        <text>Merge pull request #710 from okushchenko/arm-support
+
+Release arm64 binaries</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXV0aWwgImdpdGh1Yi5jb20va2Vsc2V5aGlnaHRvd2VyL2NvbmZkL3V0aWwiCg==</text>
+        <text encoding="base64">CWMgOj0gQ29uZmlnewoJCUNvbmZEaXI6ICAgICB0ZW1wQ29uZkRpciwKCQlDb25maWdEaXI6ICAgZmlsZXBhdGguSm9pbih0ZW1wQ29uZkRpciwgImNvbmYuZCIpLAoJCVN0b3JlQ2xpZW50OiBuaWwsCgkJVGVtcGxhdGVEaXI6IGZpbGVwYXRoLkpvaW4odGVtcENvbmZEaXIsICJ0ZW1wbGF0ZXMiKSwKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>yaml</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>yaml</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -243,7 +226,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ino</entry>
         <entry>info</entry>
         <entry>jz</entry>
         <entry>eventDelay</entry>
@@ -261,8 +243,9 @@
         <entry>room</entry>
         <entry>ke</entry>
         <entry>log</entry>
-        <entry>env</entry>
         <entry>yaml</entry>
+        <entry>env</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
