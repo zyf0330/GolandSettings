@@ -3,111 +3,528 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/local/go/src/strings/strings.go" timestamp="1531798349878">
-        <mark key="'" line="831" column="10" />
+      <file name="_stream_writable.js" timestamp="1542621344566">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542163147728">
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="0" column="63" />
-        <mark key="." line="0" column="63" />
-        <mark key="^" line="0" column="63" />
+      <file name="net.js" timestamp="1542621476677">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" timestamp="1542163105641">
-        <mark key="'" line="39" column="29" />
-        <mark key="[" line="58" column="74" />
-        <mark key="]" line="58" column="73" />
-        <mark key="^" line="58" column="73" />
-        <mark key="." line="58" column="73" />
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" timestamp="1542703535823">
+        <mark key="'" line="60" column="59" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" timestamp="1528706304818">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
-        <mark key="^" line="45" column="12" />
+      <file name="/fragment.js" timestamp="1542620452698">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_client/main.go" timestamp="1528706410316">
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" timestamp="1542336229985">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="52" column="39" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" timestamp="1542283415567">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
+      <file name="internal/process/next_tick.js" timestamp="1540452511811">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/.arclint" timestamp="1541487440178">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1539932697136">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/etcdConfig" timestamp="1542335313825">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/conf.d/config.js.toml" timestamp="1542350544170">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="14" />
+      </file>
+      <file name="/index.js" timestamp="1540987816767">
+        <mark key="[" line="129" column="7" />
+      </file>
+      <file name="ui.lnf.xml" timestamp="1541560488707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="bootstrap_node.js" timestamp="1542281397422">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1542621625135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" timestamp="1542253645647">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="27" column="10" />
+      </file>
+      <file name="/app-docker.yml" timestamp="1542248129210">
+        <mark key="'" line="10" column="15" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/pusher-config.json" timestamp="1541578816717">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1542091690669">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/sentry.yaml" timestamp="1541647585067">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" timestamp="1542338359883">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/yarn.lock" timestamp="1542280014213">
+        <mark key="'" line="2289" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542359273086">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/config/statsd.yaml" timestamp="1541647598398">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/.gitignore" timestamp="1541577070450">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app-docker.yml" timestamp="1542273582505">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="13" column="49" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/consts.js" timestamp="1542254362479">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.yml" timestamp="1542351006868">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="7" column="70" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/templates/config.js.tmpl" timestamp="1542335481409">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" timestamp="1542285948584">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-rtmp/config/sentry.yaml" timestamp="1541644623822">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" timestamp="1542350426628">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" timestamp="1542359069731">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+        <mark key="^" line="53" column="32" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" timestamp="1542271901477">
+        <mark key="'" line="298" column="4" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="^" line="62" column="22" />
+        <mark key="." line="248" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-connector-sio/src/utils/sentryClient.js" timestamp="1541647463175">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="8" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-develop/local/connector-rtmp-app.json" timestamp="1541643787602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/1.js" timestamp="1542621652625">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="dgram.js" timestamp="1541492465818">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="module.js" timestamp="1542621294694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/package.json" timestamp="1542280007073">
+        <mark key="'" line="5" column="13" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-center/src/jobs/pushStudentCount.js" timestamp="1541487250583">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+      </file>
+      <file name="colors/2K Darcula.icls" timestamp="1541560416668">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/tinder/tinder-huixiaobao-center/src/service/index.js" timestamp="1541414293792">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="3" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" timestamp="1542350239755">
+        <mark key="'" line="69" column="7" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" timestamp="1542279467861">
+        <mark key="'" line="16" column="35" />
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="35" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" timestamp="1542335669543">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="191" column="46" />
+        <mark key="." line="191" column="46" />
+        <mark key="^" line="191" column="46" />
+      </file>
+      <file name="internal/process/stdio.js" timestamp="1542621332784">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="27" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="52" column="9" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="2" column="18" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="55" column="38" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="29" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="28" column="4" filename="/media/zyf/data/Programming/project/go/src/google.golang.org/grpc/examples/helloworld/greeter_server/main.go" />
-      <jump line="68" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
-      <jump line="70" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
-      <jump line="175" column="15" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
-      <jump line="831" column="10" filename="/usr/local/go/src/strings/strings.go" />
-      <jump line="39" column="29" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/template_funcs.go" />
+      <jump line="4" column="56" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-apps-edge/log.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/utils/log.js" />
+      <jump line="12" column="39" filename="$USER_HOME$/project/duobei/tinder/tinder-edge-nodejs/src/index.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
+      <jump line="0" column="40" filename="$USER_HOME$/project/duobei/tinder/tinder-connector-rtmp/config/1" />
+      <jump line="150" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="161" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="184" column="10" filename="/media/zyf/data/Programming/project/duobei/duobeiyun-mobile-server/helper.js" />
+      <jump line="57" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="8" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="58" column="28" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="60" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="15" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="37" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logstash.js" />
+      <jump line="12" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="11" column="229" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="34" column="14" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="2" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
+      <jump line="18" column="269" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
+      <jump line="27" column="24" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
+      <jump line="20" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd.sh" />
+      <jump line="21" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="15" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/consts.js" />
+      <jump line="4" column="44" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="32" column="3" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="31" column="29" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="6" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="43" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="37" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="15" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="39" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="35" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/consts.js" />
+      <jump line="10" column="15" filename="/app-docker.yml" />
+      <jump line="50" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="56" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="19" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="24" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
+      <jump line="11" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
+      <jump line="8" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
+      <jump line="73" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="182" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="59" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="63" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="30" column="31" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="64" column="37" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="27" column="33" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="29" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="32" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="60" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="176" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="126" column="8" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="10" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
+      <jump line="299" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Room.js" />
+      <jump line="183" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="178" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="26" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="49" column="10" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="10" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/confd/templates/config.js.tmpl" />
+      <jump line="10" column="2" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="9" column="25" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="15" column="22" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="47" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="40" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="34" column="11" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="35" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="36" column="16" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="123" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="18" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="76" column="20" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
+      <jump line="13" column="4" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Dispatch.js" />
+      <jump line="25" column="40" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="43" column="23" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="8" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="44" column="43" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="16" column="35" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Sub.js" />
+      <jump line="42" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/config.js" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="6" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="19" column="15" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="5" column="13" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/package.json" />
+      <jump line="2289" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/yarn.lock" />
+      <jump line="17" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="21" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/index.js" />
+      <jump line="20" column="19" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Pub.js" />
+      <jump line="28" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="42" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/service/Apps.js" />
+      <jump line="45" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="59" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/app.js" />
+      <jump line="60" column="59" filename="/media/zyf/data/Programming/project/duobei/tinder/tinder-zwt-center/src/index.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9ncnBjL3JlZmxlY3Rpb24iCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVzdWx0Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXMgOj0gZ3JwYy5OZXdTZXJ2ZXIoZ3JwYy4pCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>去除除 etcdv3 以外的 backend 支持</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWNyZWRlbnRpYWxzLk5ld1MK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="c" type="4">
+        <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text>去除除 etcdv3 以外的 backend 支持</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>getip</text>
+        <text>room</text>
+      </register>
+      <register name="0" type="4">
+        <text>process.stdout._writableState</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cmVzdWx0Cg==</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gcHJvY2Vzcy5zdGRvdXQud3JpdGUoJzEyMycpCmNvbnN0IHdzID0gcHJvY2Vzcy5zdGRvdXQuX3dyaXRhYmxlU3RhdGUKcHJvY2Vzcy5zdGRvdXQud3JpdGUoJzEnKQpNYXRoLnJhbmRvbSgpCndzLmxhc3RCdWZmZXJlZFJlcXVlc3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgciA9ICBwcm9jZXNzLnN0ZG91dC5fX3Byb3RvX18uX3JlYWQK</text>
+      </register>
+      <register name="s" type="4">
+        <text>zmqSocketRoute</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcgp9KQpyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgYiA9IEJ1ZmZlci5hbGxvY1Vuc2FmZSgxMDApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coYi50b1N0cmluZygpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QnVmZmVyLmZyb20ocHJvY2Vzcy5zdGRvdXQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IGNvbnN0IHdTdHJlYW0gPSBmcy5jcmVhdGVSZWFkU3RyZWFtKCcuL3R4dCcpCiBwcm9jZXNzLnN0ZG91dC5waXBlKHdTdHJlYW0pCi8vIGNvbnN0IGJ1ZmZlciA9IEJ1ZmZlci5hbGxvYygxMDAwKQovLyBmcy5yZWFkKHByb2Nlc3Muc3Rkb3V0LmZkLCBidWZmZXIsIDAsIDEwMDAsIDAsIChlcnIsIHNpemUsIGJ1ZmZlcikgPT4gewovLyAgIGNvbnNvbGUubG9nKCdyZWFkJywgYnVmZmVyLnRvU3RyaW5nKCkpCi8vIH0pCmNvbnNvbGUubG9nKCcxMjMzMzMzMzMzMzMzMzMzMycpCmNvbnNvbGUubG9nKGFwaSgxMikpCmNvbnNvbGUubG9nKCdlbmQnKQpwcm9jZXNzLnN0ZG91dC5mbHVzaCgpCnByb2Nlc3MuZXhpdCgwKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>getip</last-search>
+      <last-search>room</last-search>
       <last-offset />
-      <last-pattern>getip</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-pattern>room</last-pattern>
+      <last-replace>,\r</last-replace>
+      <last-substitute>,</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>grpc</entry>
-        <entry>grpc.</entry>
-        <entry>re</entry>
-        <entry>contain</entry>
-        <entry>getip</entry>
+        <entry encoding="base64">ICw=</entry>
+        <entry>2'</entry>
+        <entry>pr</entry>
+        <entry>arg</entry>
+        <entry>ino</entry>
+        <entry>info</entry>
+        <entry>jz</entry>
+        <entry>eventDelay</entry>
+        <entry>roomEventDelays</entry>
+        <entry>rooms</entry>
+        <entry>logger.log</entry>
+        <entry>ip</entry>
+        <entry>,</entry>
+        <entry>conne</entry>
+        <entry>zmq</entry>
+        <entry>zeromq</entry>
+        <entry>message</entry>
+        <entry>conn</entry>
+        <entry>clients</entry>
+        <entry>room</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
+        <entry>hoh</entry>
+        <entry encoding="base64">JzwsJz5zLzEnLzMnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEnLzInL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
+        <entry encoding="base64">JzwsJz4yJy8xJy9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zLzInLzEnL2dj</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxuL2dj</entry>
+        <entry encoding="base64">JzwsJz5zLywvLCwvZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLDxDUj4vZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
+        <entry>reg</entry>
+        <entry>wq</entry>
         <entry>w</entry>
+        <entry>58</entry>
+        <entry>46</entry>
+        <entry>60</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
