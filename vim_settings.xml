@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542788741614">
-        <mark key="[" line="154" column="36" />
-        <mark key="]" line="155" column="23" />
-        <mark key="." line="155" column="23" />
-        <mark key="^" line="155" column="23" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542789821523">
+        <mark key="'" line="100" column="19" />
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="110" column="31" />
+        <mark key="." line="110" column="31" />
+        <mark key="^" line="110" column="31" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config_test.go" timestamp="1542778007623">
         <mark key="[" line="14" column="46" />
@@ -15,11 +16,11 @@
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="49" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd.go" timestamp="1542769458647">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd.go" timestamp="1542789801605">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config_test.go" timestamp="1542775648202" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/log/log.go" timestamp="1542787467004" />
@@ -57,11 +58,14 @@
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="/client.go" timestamp="1542784012929" />
-      <file name="/Dummy.txt" timestamp="1542788350407">
+      <file name="/client.go" timestamp="1542789808384">
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="110" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542789835323">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config.go" timestamp="1542775727035" />
@@ -78,8 +82,10 @@
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" timestamp="1542780880704" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/vendor/github.com/coreos/etcd/clientv3/client.go" timestamp="1542788004943" />
-      <file name="/dlv-debug.txt" timestamp="1542788710952">
+      <file name="/dlv-debug.txt" timestamp="1542789707494">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/test.sh" timestamp="1542777636261" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/vendor/google.golang.org/grpc/clientconn.go" timestamp="1542788094111" />
@@ -94,14 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="18" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="15" column="9" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="39" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="35" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/consts.js" />
-      <jump line="10" column="15" filename="/app-docker.yml" />
-      <jump line="50" column="21" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="56" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
-      <jump line="19" column="6" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
       <jump line="24" column="7" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/util/logger.js" />
       <jump line="11" column="45" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
       <jump line="8" column="0" filename="/media/zyf/data/Programming/project/duobei/dby-mobile-server-1v1/test.js" />
@@ -183,7 +181,6 @@
       <jump line="110" column="19" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
       <jump line="111" column="30" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" />
       <jump line="274" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="229" column="12" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="222" column="4" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="219" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
@@ -194,36 +191,43 @@
       <jump line="221" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="224" column="39" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="220" column="12" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="156" column="50" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="143" column="16" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="62" column="35" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="86" column="72" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="87" column="27" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="90" column="72" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="91" column="43" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
+      <jump line="100" column="19" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>bump to v0.16.0</text>
       </register>
       <register name="c" type="4">
         <text>cacheInitMsgs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>bump to v0.16.0</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlsb2cuSW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBubyBuZXcgbm90aWZ5IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCi8qKgogKiDln7rkuo7pobnnm67nmoTphY3nva4KICovCg==</text>
+        <text encoding="base64">CWUgOj0gZXJyb3JzLk5ldygiMTIzIikK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICByZWdpc3RlckNsaWVudChtY19jbGllbnQpIHsKICAgIHRoaXMubWNfY2xpZW50ID0gbWNfY2xpZW50Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgrmt7vliqDmtYvor5U=</text>
+      <register name="2" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnCi8qKgogKiDln7rkuo7pobnnm67nmoTphY3nva4KICovCg==</text>
       </register>
       <register name="3" type="4">
-        <text>Merge pull request #678 from hubo1016/new_etcdv3
-
-new etcdv3 implementation</text>
+        <text encoding="base64">Cgrmt7vliqDmtYvor5U=</text>
       </register>
       <register name="s" type="4">
         <text>zmqSocketRoute</text>
@@ -233,38 +237,38 @@ new etcdv3 implementation</text>
 
 new etcdv3 implementation</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuYyBkZWxheU5vdGlmeShuZXh0UmV2aXNpb24gaW50NjQsIG5vdGlmeSBjaGFuIGludDY0KSAoaW50NjQsIGVycm9yKSB7Cglsb2cuSW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBlbnRlciBkZWxheU5vdGlmeSIpCglzZWxlY3QgewoJY2FzZSA8LXRpbWUuQWZ0ZXIodGltZS5TZWNvbmQgKiA1KToKCQlsb2cuSW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBubyBuZXcgbm90aWZ5IikKCQlyZXR1cm4gbmV4dFJldmlzaW9uLCBuaWwKCWNhc2UgbmV4dFJldmlzaW9uID0gPC1ub3RpZnk6CgkJbG9nLkluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gZGVsYXkgNXMiKQoJCXJldHVybiBkZWxheU5vdGlmeShuZXh0UmV2aXNpb24sIG5vdGlmeSkKCX0KfQo=</text>
+      <register name="5" type="4">
+        <text>Merge pull request #678 from hubo1016/new_etcdv3
+
+new etcdv3 implementation</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vdmFyIG5leHRSZXZpc2lvbiBpbnQ2NCA9IC0xCgkvL2ZvciB7CgkvLwlzZWxlY3QgewoJLy8JY2FzZSA8LXRpbWUuQWZ0ZXIodGltZS5TZWNvbmQgKiA1KToKCS8vCQlpZiBuZXh0UmV2aXNpb24gPT0gLTEgewoJLy8JCQljb250aW51ZQoJLy8JCX0KCS8vCQlyZXR1cm4gdWludDY0KG5leHRSZXZpc2lvbiksIGVycgoJLy8JY2FzZSBuZXh0UmV2aXNpb24gPSA8LW5vdGlmeToKCS8vCQljb250aW51ZQoJLy8JY2FzZSA8LWN0eC5Eb25lKCk6CgkvLwkJcmV0dXJuIDAsIGN0eC5FcnIoKQoJLy8JfQoJLy99Cg==</text>
+        <text encoding="base64">ZnVuYyBkZWxheU5vdGlmeShuZXh0UmV2aXNpb24gaW50NjQsIG5vdGlmeSBjaGFuIGludDY0KSAoaW50NjQsIGVycm9yKSB7Cglsb2cuSW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBlbnRlciBkZWxheU5vdGlmeSIpCglzZWxlY3QgewoJY2FzZSA8LXRpbWUuQWZ0ZXIodGltZS5TZWNvbmQgKiA1KToKCQlsb2cuSW5mbygiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBubyBuZXcgbm90aWZ5IikKCQlyZXR1cm4gbmV4dFJldmlzaW9uLCBuaWwKCWNhc2UgbmV4dFJldmlzaW9uID0gPC1ub3RpZnk6CgkJbG9nLkluZm8oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gZGVsYXkgNXMiKQoJCXJldHVybiBkZWxheU5vdGlmeShuZXh0UmV2aXNpb24sIG5vdGlmeSkKCX0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglzZWxlY3QgewoJY2FzZSBuZXh0UmV2aXNpb24gOj0gPC1ub3RpZnk6CgkJbG9nLkluZm8oIj09LS0tLS0tLS0tLS0tLS0tLSBvdXRlciBlbnRlciBkZWxheU5vdGlmeSIpCgkJbmV4dFJldmlzaW9uLCBlcnIgOj0gZGVsYXlOb3RpZnkobmV4dFJldmlzaW9uLCBub3RpZnkpCgkJcmV0dXJuIHVpbnQ2NChuZXh0UmV2aXNpb24pLCBlcnIKCWNhc2UgPC1jdHguRG9uZSgpOgoJCXJldHVybiAwLCBjdHguRXJyKCkKCX0K</text>
+        <text encoding="base64">CS8vdmFyIG5leHRSZXZpc2lvbiBpbnQ2NCA9IC0xCgkvL2ZvciB7CgkvLwlzZWxlY3QgewoJLy8JY2FzZSA8LXRpbWUuQWZ0ZXIodGltZS5TZWNvbmQgKiA1KToKCS8vCQlpZiBuZXh0UmV2aXNpb24gPT0gLTEgewoJLy8JCQljb250aW51ZQoJLy8JCX0KCS8vCQlyZXR1cm4gdWludDY0KG5leHRSZXZpc2lvbiksIGVycgoJLy8JY2FzZSBuZXh0UmV2aXNpb24gPSA8LW5vdGlmeToKCS8vCQljb250aW51ZQoJLy8JY2FzZSA8LWN0eC5Eb25lKCk6CgkvLwkJcmV0dXJuIDAsIGN0eC5FcnIoKQoJLy8JfQoJLy99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CglzZWxlY3QgewoJY2FzZSBuZXh0UmV2aXNpb24gOj0gPC1ub3RpZnk6CgkJbG9nLkluZm8oIj09LS0tLS0tLS0tLS0tLS0tLSBvdXRlciBlbnRlciBkZWxheU5vdGlmeSIpCgkJbmV4dFJldmlzaW9uLCBlcnIgOj0gZGVsYXlOb3RpZnkobmV4dFJldmlzaW9uLCBub3RpZnkpCgkJcmV0dXJuIHVpbnQ2NChuZXh0UmV2aXNpb24pLCBlcnIKCWNhc2UgPC1jdHguRG9uZSgpOgoJCXJldHVybiAwLCBjdHguRXJyKCkKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSBmdW5jIGRlbGF5UmV0dXJuKG5leHRSZXZpc2lvbiBpbnQ2NCkgKHVpbnQ2NCwgZXJyb3IpIHsKCQlzZWxlY3QgewoJCWNhc2UgPC10aW1lLkFmdGVyKHRpbWUuU2Vjb25kICogNSk6CgkJCXJldHVybiB1aW50NjQobmV4dFJldmlzaW9uKSwgbmlsCgkJY2FzZSBuZXh0UmV2aXNpb24gPSA8LW5vdGlmeToKCQkJZGVsYXlSZXR1cm4obmV4dFJldmlzaW9uKQoJCX0KCX0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>3</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>3</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rooms</entry>
-        <entry>logger.log</entry>
         <entry>ip</entry>
         <entry>,</entry>
         <entry>conne</entry>
@@ -283,6 +287,8 @@ new etcdv3 implementation</text>
         <entry>delayre</entry>
         <entry>no</entry>
         <entry>new</entry>
+        <entry>fmt</entry>
+        <entry>3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
