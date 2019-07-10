@@ -3,12 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/client.go" timestamp="1542789808384">
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="110" column="30" />
+      </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" timestamp="1542789821523">
         <mark key="'" line="100" column="19" />
         <mark key="[" line="110" column="30" />
         <mark key="]" line="110" column="31" />
         <mark key="." line="110" column="31" />
         <mark key="^" line="110" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542789850938">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config_test.go" timestamp="1542778007623">
         <mark key="[" line="14" column="46" />
@@ -22,8 +32,17 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config_test.go" timestamp="1542775648202" />
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/log/log.go" timestamp="1542787467004" />
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/client.go" timestamp="1542787425607">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/.gitignore" timestamp="1542781992811">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/config.go" timestamp="1542777696094">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -34,7 +53,12 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="62" />
       </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/processor.go" timestamp="1542787380042" />
+      <file name="/dlv-debug.txt" timestamp="1542789707494">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-golog/handlers/log.go" timestamp="1562726027796" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" timestamp="1542780065848">
         <mark key="'" line="111" column="30" />
         <mark key="[" line="5" column="0" />
@@ -44,6 +68,11 @@
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd/conf.d/config.js.toml" timestamp="1542785362809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="1" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd/templates/config.js.tmpl" timestamp="1542786083921">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" timestamp="1542778176137">
         <mark key="'" line="122" column="10" />
@@ -57,42 +86,6 @@
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
         <mark key="^" line="16" column="32" />
-      </file>
-      <file name="/client.go" timestamp="1542789808384">
-        <mark key="[" line="110" column="30" />
-        <mark key="]" line="110" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1542789850938">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/kelseyhightower/confd/config.go" timestamp="1542775727035" />
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/client.go" timestamp="1542787425607">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/.gitignore" timestamp="1542781992811">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-      </file>
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/resource/template/resource.go" timestamp="1542780880704" />
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/vendor/github.com/coreos/etcd/clientv3/client.go" timestamp="1542788004943" />
-      <file name="/dlv-debug.txt" timestamp="1542789707494">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/test.sh" timestamp="1542777636261" />
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/vendor/google.golang.org/grpc/clientconn.go" timestamp="1542788094111" />
-      <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/confd/templates/config.js.tmpl" timestamp="1542786083921">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/util.go" timestamp="1542780033848">
         <mark key="[" line="21" column="0" />
@@ -265,7 +258,7 @@ new etcdv3 implementation</text>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
