@@ -49,6 +49,9 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="/fragment.go" timestamp="1562727821450">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/config.go" timestamp="1542778182046">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="62" />
@@ -58,6 +61,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-golog/handlers/ipinfo.go" timestamp="1562727661990" />
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-golog/handlers/log.go" timestamp="1562726027796" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" timestamp="1542780065848">
         <mark key="'" line="111" column="30" />
@@ -74,6 +78,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-golog/config.json" timestamp="1562727339005" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/config.go" timestamp="1542778176137">
         <mark key="'" line="122" column="10" />
         <mark key="[" line="53" column="26" />
