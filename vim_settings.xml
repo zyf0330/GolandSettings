@@ -1,6 +1,137 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>ip</entry>
+        <entry>,</entry>
+        <entry>conne</entry>
+        <entry>zmq</entry>
+        <entry>zeromq</entry>
+        <entry>message</entry>
+        <entry>conn</entry>
+        <entry>clients</entry>
+        <entry>room</entry>
+        <entry>ke</entry>
+        <entry>log</entry>
+        <entry>yaml</entry>
+        <entry>env</entry>
+        <entry>store</entry>
+        <entry>path</entry>
+        <entry>delayre</entry>
+        <entry>no</entry>
+        <entry>new</entry>
+        <entry>fmt</entry>
+        <entry>3</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
+        <entry>hoh</entry>
+        <entry encoding="base64">JzwsJz5zLzEnLzMnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEnLzInL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
+        <entry encoding="base64">JzwsJz4yJy8xJy9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zLzInLzEnL2dj</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxuL2dj</entry>
+        <entry encoding="base64">JzwsJz5zLywvLCwvZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLDxDUj4vZ2M=</entry>
+        <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
+        <entry>reg</entry>
+        <entry>wq</entry>
+        <entry>58</entry>
+        <entry>46</entry>
+        <entry>60</entry>
+        <entry>q</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="/client.go" timestamp="1542789808384">
@@ -67,7 +198,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-golog/handlers/log.go" timestamp="1562729419925" />
       <file name="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/util/util.go" timestamp="1542780065848">
         <mark key="'" line="111" column="30" />
         <mark key="[" line="5" column="0" />
@@ -203,6 +333,8 @@
       <jump line="91" column="43" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
       <jump line="100" column="19" filename="/media/zyf/data/Programming/project/go/src/github.com/zyf0330/confd/backends/etcdv3/client.go" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
         <text>production</text>
@@ -260,6 +392,8 @@ new etcdv3 implementation</text>
         <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>3</last-search>
       <last-offset />
@@ -267,132 +401,14 @@ new etcdv3 implementation</text>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>ip</entry>
-        <entry>,</entry>
-        <entry>conne</entry>
-        <entry>zmq</entry>
-        <entry>zeromq</entry>
-        <entry>message</entry>
-        <entry>conn</entry>
-        <entry>clients</entry>
-        <entry>room</entry>
-        <entry>ke</entry>
-        <entry>log</entry>
-        <entry>yaml</entry>
-        <entry>env</entry>
-        <entry>store</entry>
-        <entry>path</entry>
-        <entry>delayre</entry>
-        <entry>no</entry>
-        <entry>new</entry>
-        <entry>fmt</entry>
-        <entry>3</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvXG4sL2c=</entry>
-        <entry>hoh</entry>
-        <entry encoding="base64">JzwsJz5zLzEnLzMnL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzEnLzInL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyAsLywvZw==</entry>
-        <entry encoding="base64">JzwsJz4yJy8xJy9nYw==</entry>
-        <entry encoding="base64">JzwsJz5zLzInLzEnL2dj</entry>
-        <entry encoding="base64">JzwsJz5zLywvLFxuL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLywvLFxuL2dj</entry>
-        <entry encoding="base64">JzwsJz5zLywvLCwvZ2M=</entry>
-        <entry encoding="base64">JzwsJz5zLywvLDxDUj4vZ2M=</entry>
-        <entry encoding="base64">JzwsJz5zLywvLFxyL2dj</entry>
-        <entry>reg</entry>
-        <entry>wq</entry>
-        <entry>58</entry>
-        <entry>46</entry>
-        <entry>60</entry>
-        <entry>q</entry>
-        <entry>noh</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>alt pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>alt pressed P</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
