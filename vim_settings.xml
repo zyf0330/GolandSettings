@@ -102,7 +102,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -405,7 +405,7 @@ new etcdv3 implementation</text>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
