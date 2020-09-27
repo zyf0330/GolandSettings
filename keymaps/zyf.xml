@@ -2,11 +2,21 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindNext" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
+  <action id="IncrementalSearch" />
   <action id="MethodHierarchy" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
