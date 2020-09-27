@@ -13,7 +13,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindInPath" />
   <action id="FindNext" />
+  <action id="GotoLine" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="IncrementalSearch" />
@@ -60,6 +62,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
